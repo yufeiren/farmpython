@@ -87,10 +87,12 @@ def __init__(self):
 Class variables vs. instances variables
 
 
+using verbs for methods and nouns for data attributes
+
 
 
 next:
-https://docs.python.org/2/tutorial/classes.html
+https://docs.python.org/2/tutorial/classes.html#iterators
 
 
 
