@@ -90,9 +90,31 @@ Class variables vs. instances variables
 using verbs for methods and nouns for data attributes
 
 
+Iterators and Generators
+
+Chapter 10
+Standard library
+
+regular expression
+
+urllib2
+smtplib
+
+datetime
+
+zlib
+
+test code:
+doctest
+unittest
+
+
+
+
+
 
 next:
-https://docs.python.org/2/tutorial/classes.html#iterators
+https://docs.python.org/2/tutorial/stdlib2.html
 
 
 
