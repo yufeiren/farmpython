@@ -109,12 +109,24 @@ doctest
 unittest
 
 
+from string import Template
+
+for example, string Template is for renaming files.
+
+Queue.Queue for thread tasks synchronization
+
 
 
 
 
 next:
 https://docs.python.org/2/tutorial/stdlib2.html
+
+
+
+Next: standard library
+
+https://docs.python.org/2/library/index.html
 
 
 
